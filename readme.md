@@ -1,12 +1,6 @@
 # Practice Inspiration
 
-## Some ideas on how to practice the guitar
-
-When practicing the guitar, think about what you'd like to learn and why.
-
-Take some time to reflect and write down your goals.
-
-Balance playing and practicing: they are slightly different domains (that can sometimes overlap)
+## Some thoughts on how to practice the guitar
 
 ### Technical concepts explored in this repo
 
@@ -17,3 +11,4 @@ Balance playing and practicing: they are slightly different domains (that can so
 - Adding a remote repository
 - Pushing local work to the remote repository
 - Pulling changes from the remote to the local machine
+- GitHub Pages
